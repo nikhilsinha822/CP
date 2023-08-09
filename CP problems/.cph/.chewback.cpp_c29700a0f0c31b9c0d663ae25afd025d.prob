@@ -1,0 +1,1 @@
+{"name":"Local: chewback","url":"c:\\nikhilakg\\CP\\chewback.cpp","tests":[{"id":1676718501750,"input":"27","output":"22"},{"id":1676718529861,"input":"4545","output":"4444"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\nikhilakg\\CP\\chewback.cpp","group":"local","local":true}
